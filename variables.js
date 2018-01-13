@@ -5,6 +5,8 @@ var personality = "awesome"
 console.log(personality)
 //
 
+personality = "badBoy"
+
 personality = "fabulous";
 console.log(personality);
 
